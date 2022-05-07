@@ -7,18 +7,26 @@
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-techs">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Licença</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ## 🛠️ Techs
 
-Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
+Esse projeto foi desenvolvido utilizando as tecnologias:
 
 - HTML
 - CSS
 - JavaScript
+
+## 💻 Projeto
+
+Esse projeto, baseado na aplicação criada durante o evento NLW Return, da RocketSeat, consiste em uma página para um aplicativo fictício chamado "VaccineHub", no qual o usuário teria acesso à cartilha de vacinas pendentes, localização dos postos de saúde ou centros de vacinação mais próximos, histórico e resultado de exames, entre outras funcionalidades.
+
+A página está estruturada no formato One Page e é totalmente responsiva, adaptando-se aos diversos dispositivos móveis e desktop. 
+
+Link para conferir o projeto: https://edusmpaio.github.io/vaccinehub/
 
 ## 🖼️ Layout
 
