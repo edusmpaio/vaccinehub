@@ -6,13 +6,9 @@
   <img alt="VaccineHub" src="./github-preview/project-preview.png" width="100%">
 </p>
 
-<p align="center">
-  <a href="#-techs">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>
-</p>
+<br>
 
-## 🛠️ Techs
+## 🛠️ Tecnologias
 
 Esse projeto foi desenvolvido utilizando as tecnologias:
 
@@ -20,14 +16,20 @@ Esse projeto foi desenvolvido utilizando as tecnologias:
 - CSS
 - JavaScript
 
-## 💻 Projeto
+## 🚀 Sobre o Projeto
 
-Esse projeto, baseado na aplicação criada durante o evento NLW Return, da RocketSeat, consiste em uma página para um aplicativo fictício chamado "VaccineHub", no qual o usuário teria acesso à várias informações como cartilha de vacinas pendentes, localização dos postos de saúde ou centros de vacinação mais próximos, histórico e resultado de exames, agendamento de consultas, entre outras funcionalidades.
+Baseando-se na aplicação criada durante o evento NLW Return, da RocketSeat, esse projeto consiste em uma página para um aplicativo fictício chamado "VaccineHub", no qual o usuário teria acesso à diversas informações a respeito de sua situação vacinal, como cartilha de vacinas pendentes, localização dos postos de saúde/centros de vacinação mais próximos, histórico/resultado de exames, agendamento de consultas, etc.
 
 A página está estruturada no formato One Page e é totalmente responsiva, adaptando-se aos diversos dispositivos móveis e desktop. 
 
-Link para conferir o projeto: https://edusmpaio.github.io/vaccinehub/
+Link para conferir o projeto completo: https://edusmpaio.github.io/vaccinehub/
 
 ## 🖼️ Layout
 
-O layout do [Figma](https://figma.com) no qual esse projeto foi baseado encontra-se [nesse link](https://www.figma.com/community/file/1102912263666619803).
+O layout utilizado como inspiração encontra-se [nesse link](https://www.figma.com/community/file/1102912263666619803).
+
+É necessário ter uma conta no [Figma](https://figma.com) para ter acesso.
+
+## 🎨 Ilustrações 
+
+O pack de ilustrações utilizado encontra-se no [DrawKit](https://drawkit.com/).
