@@ -612,7 +612,6 @@ footer .social-links {
 
   nav#navbar .menu li a:hover {
     opacity: 1;
-    font-weight: 500;
   }
 
   nav#navbar .menu li a::after {
